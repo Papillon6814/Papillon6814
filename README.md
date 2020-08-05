@@ -22,3 +22,5 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Papillon6814" />
 </a>
 
+🔭 I’m currently working on Papillon, inc.
+📫 How to reach me: souichirou-k@papillon.co.jp
