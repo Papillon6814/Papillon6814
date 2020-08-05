@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on Papillon, inc.
+
 📫 How to reach me: souichirou-k@papillon.co.jp
 
 <a href="https://github.com/Papillon6814/github-readme-stats">
