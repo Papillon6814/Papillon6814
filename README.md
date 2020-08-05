@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🔭 I’m currently working on Papillon, inc.
+📫 How to reach me: souichirou-k@papillon.co.jp
+
 <a href="https://github.com/Papillon6814/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Papillon6814&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/Papillon6814/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Papillon6814" />
 </a>
-
-🔭 I’m currently working on Papillon, inc.
-📫 How to reach me: souichirou-k@papillon.co.jp
