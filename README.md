@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+💀 My graveyard is https://github.com/Graveyardillon
+
 🔭 I’m currently working on Papillon, inc.
+
+🤔 I’m looking for help with Elixir
 
 📫 How to reach me: souichirou-k@papillon.co.jp
 
@@ -27,3 +31,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/Papillon6814/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Papillon6814" />
 </a>
+
