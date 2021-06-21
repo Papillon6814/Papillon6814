@@ -17,15 +17,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💀 My graveyard is https://github.com/Graveyardillon
+💀 Gravetyard of my past programs is https://github.com/Graveyardillon
 
-🔭 I’m currently working on Papillon, inc.
+🔭 I’m currently working on Papillon inc.
 
 🤔 I’m looking for help of Elixir
 
 📫 How to reach me: souichirou-k@papillon.co.jp
 
 🌱I'm currently learning GCP
+
+I love classic rocks and hiphop. Thank you.
 
 <a href="https://github.com/Papillon6814/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Papillon6814&count_private=true&show_icons=true" />
