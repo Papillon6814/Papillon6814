@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💀 Gravetyard of my past programs is https://github.com/Graveyardillon
+💀 Graveyard of my past programs is https://github.com/Graveyardillon
 
 🔭 I’m currently working on Papillon inc.
 
